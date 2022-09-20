@@ -20,6 +20,7 @@ TuringX is a next-generation platform for neuromorphic computing based on a new 
 - [Develop a Solution or Algorithm](https://github.com/TuringXplatform/TuringXscript) 
 
 ## Technological Deep-Dive
+- [The TuringX Code](https://github.com/TuringXplatform/TuringX)
 - [Neuromorphic Computing](https://turingx.org/neuromorhpic-computing/)
 - [TuringX Neuromorphic Chip](https://turingx.org/turingx-neuromorphic-chip/)
 - [TuringX Protocol](https://turingx.org/turingx-protocol/)
