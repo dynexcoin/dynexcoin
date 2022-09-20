@@ -1,16 +1,29 @@
-### Hi there 👋
+### [TuringX](https://turingx.org) [TRGX]
 
-<!--
-**TuringXplatform/TuringXplatform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Powering the Future of Computing
 
-Here are some ideas to get you started:
+TuringX is a next-generation platform for neuromorphic computing based on a new flexible blockchain protocol. It is designed for the development of software applications and algorithms that utilize neuromorphic hardware and are capable of accelerating computation. To accomplish this goal, the platform connects hosts that are running clusters of neuromorphic chips with users and applications that utilize this next-generation hardware. On the TuringX platform, computation time is exchanged for the TuringX native token.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![The TuringX Ecosystem](https://turingx.org/wp-content/uploads/2022/09/turingx-ecosystem-1-768x474.png "TuringX Ecosystem")
+
+## Learn more about TuringX:
+- [Discover TuringX online](https://turingx.org/discover-turingx/)
+- [Read our Whitepaper](https://turingx.org/wp-content/uploads/2022/09/whitepaper.pdf)
+- [TuringX Neuromorphic Chip](https://turingx.org/turingx-neuromorphic-chip/)
+
+## Get TRGX:
+- [TuringX Wallet Application](https://github.com/TuringXplatform/TuringX-Wallet-App)
+- [Mine TRGX](https://github.com/TuringXplatform/TuringX)
+
+## Build on TuringX:
+- [Run a TuringX Neuromorphic Chip](https://github.com/TuringXplatform/TuringX-Neuromorphic-Chip)
+- [Develop a Solution or Algorithm](https://github.com/TuringXplatform/TuringXscript) 
+
+## Technological Deep-Dive
+- [Neuromorphic Computing](https://turingx.org/neuromorhpic-computing/)
+- [TuringX Neuromorphic Chip](https://turingx.org/turingx-neuromorphic-chip/)
+- [TuringX Protocol](https://turingx.org/turingx-protocol/)
+- [A New Level of Privacy](https://turingx.org/a-new-level-of-privacy/)
+- [Resiliency and Survivability](https://turingx.org/resiliency-and-survivability/)
+- [Full Security Analysis](https://turingx.org/full-security-analysis/)
+
