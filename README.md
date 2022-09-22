@@ -9,18 +9,18 @@ Dynex is a next-generation platform for neuromorphic computing based on a new fl
 ## Learn more about Dynex:
 - [Discover Dynex online](https://dynexcoin.org/discover-dynex/)
 - [Read our Whitepaper](https://dynexcoin.org/wp-content/uploads/2022/09/dynex-whitepaper.pdf)
-- [TuringX Neuromorphic Chip](https://dynexcoin.org/turingx-neuromorphic-chip/)
+- [TuringX Neuromorphic Chip](https://dynexcoin.org/dynex-neuromorphic-chip/)
 
 ## Get DNX:
-- [Dynex Wallet Application](https://github.com/TuringXplatform/TuringX-Wallet-App)
-- [Mine DNX](https://github.com/TuringXplatform/TuringX)
+- [Dynex Wallet Application](https://github.com/dynexcoin/Dynex-Wallet-App)
+- [Mine DNX](https://github.com/dynexcoin/Dynex)
 
 ## Build on TuringX:
-- [Run a TuringX Neuromorphic Chip](https://github.com/TuringXplatform/TuringX-Neuromorphic-Chip)
-- [Develop a Solution or Algorithm](https://github.com/TuringXplatform/TuringXscript) 
+- [Run a TuringX Neuromorphic Chip](https://dynexcoin.org/dynex-neuromorphic-chip/)
+- [Develop a Solution or Algorithm](https://github.com/dynexcoin/dynexscript) 
 
 ## Technological Deep-Dive
-- [The Dynex Code](https://github.com/TuringXplatform/TuringX)
+- [The Dynex Code](https://dynexcoin.org/discover-dynex/)
 - [Neuromorphic Computing](https://dynexcoin.org/neuromorhpic-computing/)
 - [Dynex Neuromorphic Chip](https://dynexcoin.org/dynex-neuromorphic-chip/)
 - [Dynex Protocol](https://dynexcoin.org/dynex-protocol/)
