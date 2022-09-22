@@ -6,7 +6,7 @@ Dynex is a next-generation platform for neuromorphic computing based on a new fl
 
 ![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/09/ecosystem-768x474.png) "TuringX Ecosystem")
 
-## Learn more about TuringX:
+## Learn more about Dynex:
 - [Discover Dynex online](https://dynexcoin.org/discover-dynex/)
 - [Read our Whitepaper](https://dynexcoin.org/wp-content/uploads/2022/09/dynex-whitepaper.pdf)
 - [TuringX Neuromorphic Chip](https://dynexcoin.org/turingx-neuromorphic-chip/)
