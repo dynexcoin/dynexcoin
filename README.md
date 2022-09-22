@@ -1,19 +1,19 @@
-### [TuringX](https://turingx.org) [TRGX]
+### [Dynex](https://dynexcoin.org) [DNX]
 
 ## Powering the Future of Computing
 
-TuringX is a next-generation platform for neuromorphic computing based on a new flexible blockchain protocol. It is designed for the development of software applications and algorithms that utilize neuromorphic hardware and are capable of accelerating computation. To accomplish this goal, the platform connects hosts that are running clusters of neuromorphic chips with users and applications that utilize this next-generation hardware. On the TuringX platform, computation time is exchanged for the TuringX native token.
+Dynex is a next-generation platform for neuromorphic computing based on a new flexible blockchain protocol. It is designed for the development of software applications and algorithms that utilize neuromorphic hardware and are capable of accelerating computation. To accomplish this goal, the platform connects hosts that are running clusters of neuromorphic chips with users and applications that utilize this next-generation hardware. On the TuringX platform, computation time is exchanged for the TuringX native token.
 
-![The TuringX Ecosystem](https://turingx.org/wp-content/uploads/2022/09/turingx-ecosystem-1-768x474.png "TuringX Ecosystem")
+![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/09/ecosystem-768x474.png) "TuringX Ecosystem")
 
 ## Learn more about TuringX:
-- [Discover TuringX online](https://turingx.org/discover-turingx/)
-- [Read our Whitepaper](https://turingx.org/wp-content/uploads/2022/09/whitepaper.pdf)
-- [TuringX Neuromorphic Chip](https://turingx.org/turingx-neuromorphic-chip/)
+- [Discover Dynex online](https://dynexcoin.org/discover-dynex/)
+- [Read our Whitepaper](https://dynexcoin.org/wp-content/uploads/2022/09/dynex-whitepaper.pdf)
+- [TuringX Neuromorphic Chip](https://dynexcoin.org/turingx-neuromorphic-chip/)
 
-## Get TRGX:
-- [TuringX Wallet Application](https://github.com/TuringXplatform/TuringX-Wallet-App)
-- [Mine TRGX](https://github.com/TuringXplatform/TuringX)
+## Get DNX:
+- [Dynex Wallet Application](https://github.com/TuringXplatform/TuringX-Wallet-App)
+- [Mine DNX](https://github.com/TuringXplatform/TuringX)
 
 ## Build on TuringX:
 - [Run a TuringX Neuromorphic Chip](https://github.com/TuringXplatform/TuringX-Neuromorphic-Chip)
@@ -21,10 +21,10 @@ TuringX is a next-generation platform for neuromorphic computing based on a new 
 
 ## Technological Deep-Dive
 - [The TuringX Code](https://github.com/TuringXplatform/TuringX)
-- [Neuromorphic Computing](https://turingx.org/neuromorhpic-computing/)
-- [TuringX Neuromorphic Chip](https://turingx.org/turingx-neuromorphic-chip/)
-- [TuringX Protocol](https://turingx.org/turingx-protocol/)
-- [A New Level of Privacy](https://turingx.org/a-new-level-of-privacy/)
-- [Resiliency and Survivability](https://turingx.org/resiliency-and-survivability/)
-- [Full Security Analysis](https://turingx.org/full-security-analysis/)
+- [Neuromorphic Computing](https://dynexcoin.org/neuromorhpic-computing/)
+- [TuringX Neuromorphic Chip](https://dynexcoin.org/dynex-neuromorphic-chip/)
+- [TuringX Protocol](https://dynexcoin.org/dynex-protocol/)
+- [A New Level of Privacy](https://dynexcoin.org/a-new-level-of-privacy/)
+- [Resiliency and Survivability](https://dynexcoin.org/resiliency-and-survivability/)
+- [Full Security Analysis](https://dynexcoin.org/full-security-analysis/)
 
