@@ -4,9 +4,9 @@
 
 ## Powering the Future of Computing
 
-Dynex is a next-generation platform for neuromorphic computing based on a new flexible blockchain protocol. It is designed for the development of software applications and algorithms that utilize neuromorphic hardware and are capable of accelerating computation. To accomplish this goal, the platform connects hosts that are running clusters of neuromorphic chips with users and applications that utilize this next-generation hardware. On the Dynex platform, computation time is exchanged for the Dynex native token.
+Dynex is a next-generation platform for neuromorphic computing based on a new flexible blockchain protocol. It consists of participating nodes that together constitute one enormous neuromorphic computing network. Consequently, the platform is capable of performing computations at unprecedented speeds and efficiency – even exceeding quantum computing. Everyone is welcome to participate, since the Dynex neuromorphic computing chip is capable of being simulated using almost any device, from regular laptops to desktop computers to GPUs, FPGAs and ASIC clusters. Users exchange computation time for Dynex’s native token DNX, thus enabling everyone to earn money on the platform.
 
-![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/09/ecosystem-768x474.png)
+![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/09/network.png)
 
 ## Learn more about Dynex:
 - [Discover Dynex online](https://dynexcoin.org/discover-dynex/)
