@@ -18,7 +18,7 @@ Dynex is a next-generation platform for neuromorphic computing based on a new fl
 - [Mine DNX](https://github.com/dynexcoin/Dynex)
 
 ## Build on Dynex:
-- [Run a Dynex Neuromorphic Chip](https://dynexcoin.org/dynex-neuromorphic-chip/)
+- [Run your own Dynex Neuromorphic Chip](https://github.com/dynexcoin/Dynex)
 - [Develop a Solution or Algorithm](https://github.com/dynexcoin/dynexscript) 
 
 ## Technological Deep-Dive
