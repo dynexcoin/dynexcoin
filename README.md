@@ -1,6 +1,6 @@
 ### [Dynex](https://dynexcoin.org) [DNX]
 
-![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/09/dynex-black.png)
+![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/10/Black-logo-no-background.svg)
 
 ## Powering the Future of Computing
 
