@@ -23,7 +23,7 @@ Dynex is a next-generation platform for neuromorphic computing based on a new fl
 
 ## Technological Deep-Dive
 - [The Dynex Code](https://dynexcoin.org/discover-dynex/)
-- [Neuromorphic Computing](https://dynexcoin.org/neuromorhpic-computing/)
+- [Neuromorphic Computing](https://dynexcoin.org/neuromorphic-computing/)
 - [Dynex Neuromorphic Chip](https://dynexcoin.org/dynex-neuromorphic-chip/)
 - [Dynex Protocol](https://dynexcoin.org/dynex-protocol/)
 - [A New Level of Privacy](https://dynexcoin.org/a-new-level-of-privacy/)
