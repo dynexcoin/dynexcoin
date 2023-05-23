@@ -1,12 +1,11 @@
-### [Dynex](https://dynexcoin.org) [DNX]
+### Decentralized Computing [Dynex](https://dynexcoin.org) [DNX]
 
-![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/10/Black-logo-no-background.svg)
+World’s first neuromorphic supercomputing blockchain based on the DynexSolve chip algorithm,
+a Proof-of-Useful-Work (PoUW) approach to solving real-world problems.
 
-## Powering the Future of Computing
+## DynexSolve: Proof-of-Useful-Work (PoUW)
 
-Dynex is a next-generation platform for neuromorphic computing based on a new flexible blockchain protocol. It consists of participating nodes that together constitute one enormous neuromorphic computing network. Consequently, the platform is capable of performing computations at unprecedented speeds and efficiency – even exceeding quantum computing. Everyone is welcome to participate, since the Dynex neuromorphic computing chip is capable of being simulated using almost any device, from regular laptops to desktop computers to GPUs. Users exchange computation time for Dynex’s native token DNX, thus enabling everyone to earn money on the platform.
-
-![The Dynex Ecosystem](https://dynexcoin.org/wp-content/uploads/2022/09/IMG_2811.jpg)
+Our proprietary Dynex Chip design is built based on ideal memristors. Memristors are two-terminal resistive devices with memory. In general, their nonlinear dynamic behaviour is mathematically modeled by means of a differential algebraic equation (DAE) set, in which an ordinary differential equation (ODE) governs the time evolution of the memory state, while an algebraic relation captures the state- and input-dependent Ohm law. The memristor, an acronym for memory resistor, was theoretically introduced in 1971 by L.O. Chua. Introduced in the 1971 pioneering paper, presently referred to as ideal memristor, is the fourth fundamental two-terminal circuit element, the other three being the resistor, the capacitor, and the inductor. Since then, the interest on memristors and their applications has been growing exponentially, with both academia and industry deploying a huge amount of funds and personnel to fabricate, model, and explore the full potential of these devices in electronics applications. The DynexSolve PoUW algorithm utilises the unprecedented performance of such memristors and performs ODE integration (simulations) of our Dynex Chips. By utilising the massive parallelism of all participating Graphic Processing Units (GPUs), we can achieve close to realtime performance of the original chip design. This allows computations of constraint satisfaction problems, mixed integer linear programming, quadratic unconstraint binary optimisation, maximum satisfiability problem, federated machine learning, efficient pre-training of restricted boltzmann machines and deep neural networks, subset sum problems or integer factorisation.
 
 ## Learn more about Dynex:
 - [Discover Dynex online](https://dynexcoin.org/discover-dynex/)
@@ -16,10 +15,6 @@ Dynex is a next-generation platform for neuromorphic computing based on a new fl
 ## Get DNX:
 - [Dynex Wallet Application](https://github.com/dynexcoin/Dynex-Wallet-App)
 - [Mine DNX](https://github.com/dynexcoin/Dynex)
-
-## Build on Dynex:
-- [Run your own Dynex Neuromorphic Chip](https://github.com/dynexcoin/Dynex)
-- [Develop a Solution or Algorithm](https://github.com/dynexcoin/dynexscript) 
 
 ## Technological Deep-Dive
 - [The Dynex Code](https://dynexcoin.org/discover-dynex/)
