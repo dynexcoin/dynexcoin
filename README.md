@@ -1,6 +1,6 @@
-### Decentralized Neuromorphic Computing [Dynex](https://dynexcoin.org) [DNX]
+### Decentralized Neuromorphic Quantum Computing [Dynex](https://dynexcoin.org) [DNX]
 
-The World’s first neuromorphic supercomputing blockchain platform based on the DynexSolve algorithm, a Proof-of-Useful-Work (PoUW) approach to solving real-world problems. Proof-of-Useful-Work is prized for combining the trustless systems of traditional mining with active "Useful-Work" - forming the additional layer of Neuromorphic computing power. The Dynex platform then distributes the Neuromorphic computing system, available on demand, as a product for organizations or individuals to purchase. This allows both users and the Dynex platform to become more efficient and economical in a world of ever-increased scrutiny to waste electricity. 
+The World’s first n.quantum computing blockchain platform based on the DynexSolve algorithm, a Proof-of-Useful-Work (PoUW) approach to solving real-world problems. Proof-of-Useful-Work is prized for combining the trustless systems of traditional mining with active "Useful-Work" - forming the additional layer of Neuromorphic computing power. The Dynex platform then distributes the Neuromorphic computing system, available on demand, as a product for organizations or individuals to purchase. This allows both users and the Dynex platform to become more efficient and economical in a world of ever-increased scrutiny to waste electricity. 
 
 ## DynexSolve: Proof-of-Useful-Work (PoUW) technical specifics
 
