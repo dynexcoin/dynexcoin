@@ -13,15 +13,15 @@ The DynexSolve PoUW algorithm utilizes the unprecedented performance of such mem
 ## Learn more about Dynex
 - [Dynex website](https://dynexcoin.org/)
 - [Dynex Whitepapers](https://dynexcoin.org/learn/dynex-whitepapers)
-- [Quantum vs Dynex Neuromorphic computing](https://dynexcoin.org/learn/quantum-vs-dynex)
+- [Neuromorphic Quantum Ccomputing](https://dynexcoin.org/learn/n-quantum-computing)
 
 ## Get DNX
-- [Dynex Wallets](https://dynexcoin.org/get-dnx#wallets)
-- [Exchanges](https://dynexcoin.org/get-dnx#exchanges)
-- [Mining](https://dynexcoin.org/get-dnx#mining)
+- [Dynex Wallets](https://dynexcoin.org/learn/wallets)
+- [Exchanges](https://dynexcoin.org/learn/exchanges)
+- [Mining](https://dynexcoin.org/learn/mining)
 
 ## Technological Deep-Dive
-- [Dynex Docs](https://dynexcoin.org/learn)
+- [Dynex Docs](https://github.com/dynexcoin/DynexSDK/wiki)
 
 ## Join the Dynex Community
 - [Official Dynex Communities](https://dynexcoin.org/linktree)
